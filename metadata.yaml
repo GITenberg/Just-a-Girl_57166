@@ -1,5 +1,8 @@
 _repo: Just-a-Girl_57166
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57166-h/images/cover.jpg
 creator:
   author:
     agent_name: Garvice, Charles
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3498
     wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57166#Just-a-Girl
 gutenberg_issued: '2018-05-15'
 gutenberg_type: Text
 identifiers:
