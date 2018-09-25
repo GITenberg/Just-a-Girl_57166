@@ -1,0 +1,25 @@
+_repo: Just-a-Girl_57166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garvice, Charles
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '3498'
+    url: http://www.gutenberg.org/2009/agents/3498
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
+description: ''
+gutenberg_issued: '2018-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: Just a Girl
+url: http://www.gutenberg.org/ebooks/57166
